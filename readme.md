@@ -42,7 +42,9 @@ Eclipse、idea和myEclipse都可以
 
 ## 5、视频演示
 
-<video src="https://gitee.com/buer_wang/student-management-system-ssm/blob/master/%E5%AD%A6%E7%94%9F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E8%A7%86%E9%A2%91%E6%BC%94%E7%A4%BA.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+https://mp.weixin.qq.com/s/iyxgs1Hzrb4IxJsFKi-QIQ
+
+（视频在 链接网页的下方）
 
 ## 6、获取方式
 
