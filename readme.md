@@ -42,7 +42,7 @@ Eclipse、idea和myEclipse都可以
 
 ## 5、视频演示
 
-https://mp.weixin.qq.com/s/iyxgs1Hzrb4IxJsFKi-QIQ
+https://mp.weixin.qq.com/s?__biz=MzkwMjM1MjM0Ng==&mid=2247483808&idx=1&sn=791ee70c95b999401fd36e4b3aecd9bd&chksm=c0a79d15f7d014035f0b57dc4a365d981dbd794f47c8a788acb495fe5c6dac894d62857425bb#rd
 
 （视频在 链接网页的下方）
 
